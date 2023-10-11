@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Vitoria, mas se puder me chamar de Alex fico feliz
+- 👋 Oi, eu sou Vitoria, mas se puder me chamar de Alex eu prefiro
 - 👀 Eu estou interessado em ... Pensamento Computacional, One Piece e desenhar
 - 🌱 Estou atualmente aprendendo ... Desenvolvimento de sites
 - 💞️ Eu estou procurando colaborar ... na aula
